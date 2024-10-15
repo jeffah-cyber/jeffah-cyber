@@ -30,7 +30,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Nessus-00A1E0?style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus Vulnerability Scanning"/> 
     <img src="https://img.shields.io/badge/-Packet%20Tracer-0596D8?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Packet Tracer"/> 
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=network&logoColor=white" alt="Nmap Network Scanner"/>    
+    <img src="https://img.shields.io/badge/-Nmap-6A5ACD?style=for-the-badge&logo=network&logoColor=white" alt="Nmap Network Scanner"/>
+    
 </div>
 
 ### Endpoint
