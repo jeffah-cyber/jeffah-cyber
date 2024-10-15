@@ -61,4 +61,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 - Email Analysis (Phishing Detection)
--Network Analysis 
+- Network Analysis 
