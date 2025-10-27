@@ -12,6 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jeffah-cyber/threat-hunting-scenario-tor)**
 
+
+## Email Phishing Analysis
+
+- **[Email Phishing Analysis Case Study — NovaCart Global Ltd](https:/github.com/jeffah-cyber/email-phishing-analysis-novacart-global)**
+
 <hr/>
 
 ## 🤳 Connect With Me
