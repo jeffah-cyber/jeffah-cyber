@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🎣 Email Phishing Analysis
 
-- **[Email Phishing Analysis Case Study — NovaCart Global Ltd](https:/github.com/jeffah-cyber/email-phishing-analysis-novacart-global)**
+- **[Email Phishing Analysis Case Study — NovaCart Global Ltd](https://github.com/jeffah-cyber/email-phishing-analysis-campaign)**
 
 <hr/>
 
